@@ -1,4 +1,4 @@
-# Stage 1: GNU fmt paragraph candidate inspector
+# Part 1: GNU fmt paragraph candidate inspector
 
 This project currently **does not format text** and **does not use Pthreads**.
 It scans blank-line-separated candidate chunks and records file byte offsets.
