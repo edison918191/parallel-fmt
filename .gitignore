@@ -1,0 +1,23 @@
+# GNU Coreutils source and build files
+third_party/
+
+# Downloaded archives
+*.zip
+*.tar.gz
+*.tar.xz
+
+# Backup files
+*.bak
+
+# Compiled programs
+inspect_paragraphs
+parallel_fmt
+*.o
+*.a
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
