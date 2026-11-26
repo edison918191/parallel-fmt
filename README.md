@@ -5,6 +5,7 @@ It scans blank-line-separated candidate chunks and records file byte offsets.
 These boundaries are not guaranteed to match GNU fmt semantics for indentation, tabs, tagged or prefixed paragraphs.
 
 Tools required for installation:
+
     sudo apt update
     sudo apt install -y build-essential python3 coreutils
 
