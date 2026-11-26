@@ -4,6 +4,10 @@ This project currently **does not format text** and **does not use Pthreads**.
 It scans blank-line-separated candidate chunks and records file byte offsets.
 These boundaries are not guaranteed to match GNU fmt semantics for indentation, tabs, tagged or prefixed paragraphs.
 
+Tools required for installation:
+    sudo apt update
+    sudo apt install -y build-essential python3 coreutils
+
 Compile and run **inside the Ubuntu 22.04 container**:
 
     make
