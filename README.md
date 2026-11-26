@@ -17,4 +17,3 @@ Compile and run **inside the Ubuntu 22.04 container**:
 
 Expected number of candidate tasks: 3.
 
-The next step is to test and refine the safe boundary rules against GNU fmt 8.32.
